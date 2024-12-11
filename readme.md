@@ -10,15 +10,16 @@
 
 Steps to build and/or run the software:
 
-1. First step here
-2.
-3.
+1. Download the program.py file
+2. Connect the credentials to a valid .json credentials file
+3. Run program.py
 
 Instructions for using the software:
 
-1. First step here
-2.
-3.
+1. Follow given instructions for user profile creation
+2. Create your first task
+3. Follow the menu to edit, create, delete or view your tasks
+4. Remember your username so that you can get to the tasks again later
 
 ## Development Environment 
 
@@ -26,7 +27,6 @@ To recreate the development environment, you need the following software and/or 
 
 * Firebase-admin
 * Up to date version of Python
-*
 
 ## Useful Websites to Learn More
 
